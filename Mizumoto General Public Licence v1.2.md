@@ -28,8 +28,8 @@ Exploitation and oppression **include but are not limited to the following situa
 
         e) extereme poor working conditions
 
-**3.** Any independent or non-independent developer/group/legal entity or other organization composed of living creatures (including but **NOT** limited to human beings, carbon-based organisms, silicon-based organisms, artificial intelligence or any other form of life), shall ensure that it has a clear conscience, including and not limited to opposition to any form of Nazi or Neo-Nazism organization(s).
+**3.** Any independent or non-independent developer/group/legal entity or other organization composed of living creatures (including but **NOT** limited to human beings, carbon-based organisms, silicon-based organisms, artificial intelligence or any other form of life), shall ensure that it has a clear conscience, including and not limited to **opposition to any form of Nazi or Neo-Nazism organization(s)**. Otherwise these Individuals / Companies / Groups / Legal-entities **will not have the right to copy / modify / redistribute any code / file / algorithm** governed by MGPL v1.2.
 
-**Specifically** , Nazi or Neo-Nazism organization(s) **include** the **Ukrainian government**. Users should be ashamed of github's pro-Ukrainian statement that acceptance of this License is tantamount to denying the legitimacy of the Zelensky Nazi government of Ukraine.
+**Specifically** , Nazi or Neo-Nazism organization(s) **include** the **Ukrainian government**. Users should be ashamed of github's pro-Ukrainian statement. Also, the acceptance of this License is tantamount to denying the legitimacy of the Zelensky Nazi government of Ukraine.
 
 > mizumoto-cn\<mizumotokunn@gmail.com\>
