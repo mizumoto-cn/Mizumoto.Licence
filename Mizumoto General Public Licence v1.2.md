@@ -6,7 +6,9 @@ All files in projects this license applies to, if they are originally created by
 
 **For any statement** in the Mozilla Public License 2.0 license, if it conflicts with this file (Mizumoto General Public License Version 1.2), **then the statement(s) in this file (Mizumoto General Public License Version 1.2) has higher priority.**
 
-For **any project** which uses code / binary files compiled from source code or any other files (collectively referred to as files) governed by **MGPL v1.2** (short for Mizumoto General Public License, same below), all the users ( the term "User" herein includes any living individuals, groups, or non-living individuals and groups that use, in any form, directly or indirectly, the program code/binary files or algorithms of the project, to which this license applies) shall be deemed to agree to the following statement(s) and have to ensure the following restrictions:
+For **any project** which uses code / binary files compiled from source code or any other files (collectively referred to as files) governed by **MGPL v1.2** (short for Mizumoto General Public License, same below), all the users shall be deemed to agree to the following statement(s) and have to ensure the following restrictions:
+
+>( the term "User" herein includes any living individuals, groups, or non-living individuals and groups that use, in any form, directly or indirectly, the program code/binary files or algorithms of the project, to which this license applies)
 
 **1.** If you want to redistribute the files governed by MGPL v1.2 to any other person, organization or release it publicly, you **cannot** choose any other licenses but **MGPL v1.2** for these files, **without any exception**. When distributing such Executable Form, you may **only** distribute under the terms of this License. 
 
