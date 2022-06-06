@@ -2,7 +2,7 @@
 
 ---
 
-All files in projects this license applies to, if they are originally created by or have been modified by the project owner, can be shared under Mizumoto.General.Public.License v1.2， the main part of which is Mozilla Public License 2.0, with **extra restrictions**. 
+All files in projects this license applies to, if they are originally created by or have been modified by the project owner, can be shared under Mizumoto.General.Public.License v1.2， the main part of which is Mozilla Public License 2.0, with **extra restrictions**.
 
 **For any statement** in the Mozilla Public License 2.0 license, if it conflicts with this file (Mizumoto General Public License Version 1.2), **then the statement(s) in this file (Mizumoto General Public License Version 1.2) has higher priority.**
 
@@ -10,7 +10,7 @@ For **any project** which uses code / binary files compiled from source code or 
 
 >( the term "User" herein includes any living individuals, groups, or non-living individuals and groups that use, in any form, directly or indirectly, the program code/binary files or algorithms of the project, to which this license applies)
 
-**1.** If you want to redistribute the files governed by MGPL v1.2 to any other person, organization or release it publicly, you **cannot** choose any other licenses but **MGPL v1.2** for these files, **without any exception**. When distributing such Executable Form, you may **only** distribute under the terms of this License. 
+**1.** If you want to redistribute the files governed by MGPL v1.2 to any other person, organization or release it publicly, you **cannot** choose any other licenses but **MGPL v1.2** for these files, **without any exception**. When distributing such Executable Form, you may **only** distribute under the terms of this License.
 
 **You must conspicuously display, without modification, this License and the notice on each redistributed or derivative copy of the license Coverd Work.**
 
