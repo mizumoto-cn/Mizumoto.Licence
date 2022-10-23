@@ -1,4 +1,4 @@
-# Mizumoto.General.Public.License v1.1
+# Mizumoto.General.Private.License v1.0
 
 ---
 
