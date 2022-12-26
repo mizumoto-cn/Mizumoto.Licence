@@ -25,4 +25,4 @@ For any project that uses code or algorithms, binary files, or other files (coll
 
 ---
 
-mizumoto-cn<mizumotokunn@gmail.com>
+ mizumoto-cn\<mizumotokunn@gmail.com\>
